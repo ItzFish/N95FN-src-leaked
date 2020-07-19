@@ -1,0 +1,67 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ZeyroxFN.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling spoofinternal.asm...
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(995,5): warning MSB8027: Two or more files with the name of FortUpdaters.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Header Files\FortUpdaters\FortUpdaters.cpp, Source Files\FortUpdaters\FortUpdaters.cpp.
+  Discord.cpp
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(33,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(62,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(85,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(108,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(131,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(155,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(178,16): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  dllmain.cPP
+D:\fortnitrecheet\N95\TrueAim\DiscordHook\Discord.cpp(194,12): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+D:\fortnitrecheet\N95\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  FortUpdaters.cpp
+  Helper.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  Config.cpp
+  core.cpp
+D:\fortnitrecheet\N95\TrueAim\dllmain.cPP : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\fortnitrecheet\N95\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(420,31): warning C4552: '!=': result of expression not used
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(507,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(508,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(509,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(515,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(516,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  FortUpdaters.cpp
+  menu.cpp
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(517,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fortnitrecheet\N95\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(240,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(242,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(243,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(350,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(1040,35): warning C4552: '!=': result of expression not used
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(1044,34): warning C4552: '!=': result of expression not used
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(1465,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(1480,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  offsets.cpp
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(915,8): warning C4101: 'wkekj': unreferenced local variable
+D:\fortnitrecheet\N95\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  settings.cpp
+D:\fortnitrecheet\N95\TrueAim\Source Files\offsets\offsets.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\fortnitrecheet\N95\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  Util.cpp
+D:\fortnitrecheet\N95\TrueAim\Source Files\settings\settings.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\fortnitrecheet\N95\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  Generating Code...
+D:\fortnitrecheet\N95\TrueAim\Source Files\util\Util.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(13): warning C4715: 'GetTargetHead': not all control paths return a value
+D:\fortnitrecheet\N95\TrueAim\Source Files\menu\menu.cpp(217): warning C4715: 'GetDistance': not all control paths return a value
+D:\fortnitrecheet\N95\TrueAim\Source Files\FortUpdaters\FortUpdaters.cpp(214): warning C4172: returning address of local variable or temporary: return_string
+D:\fortnitrecheet\N95\TrueAim\Source Files\FortUpdaters\FortUpdaters.cpp(137): warning C4715: 'FortUpdater::FindOffset': not all control paths return a value
+D:\fortnitrecheet\N95\TrueAim\Source Files\core\core.cpp(584): warning C4715: 'Core::Initialize': not all control paths return a value
+D:\fortnitrecheet\N95\TrueAim\Header Files\FortUpdaters\FortUpdaters.cpp(213): warning C4172: returning address of local variable or temporary: return_string
+D:\fortnitrecheet\N95\TrueAim\Header Files\FortUpdaters\FortUpdaters.cpp(136): warning C4715: 'FortUpdater::FindOffset': not all control paths return a value
+x64\Release\FortUpdaters.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library N95\TrueAim\Release\N95.lib and object N95\TrueAim\Release\N95.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  TrueAim.vcxproj -> D:\fortnitrecheet\N95\TrueAim\N95\TrueAim\Release\N95.dll
