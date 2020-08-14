@@ -672,7 +672,9 @@ VOID EndScene(ImGuiWindow& window) {
 		ImGui::End();
 	}
 
-
+	ImGui::PopStyleColor();
+	ImGui::Render();
+	
 
 }
 
